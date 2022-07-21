@@ -1,5 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args){
-    System.out.print("Java program Hello world From Docker");
+    System.out.print("Java program to say Hello world From Docker");
   }
 }
